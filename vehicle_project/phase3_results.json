@@ -1,0 +1,18 @@
+{
+  "yolo_map50": 0.7201366154225837,
+  "yolo_map50_95": 0.4064912688639103,
+  "yolo_precision": 0.6744999723971468,
+  "yolo_recall": 0.6746175185738154,
+  "yolo_per_class_ap50": {
+    "bus": 0.8649512820774125,
+    "car": 0.7246737208403012,
+    "microbus": 0.6984260703936765,
+    "motorbike": 0.6326834137466122,
+    "pickup-van": 0.6403604804702642,
+    "truck": 0.7597247250072354
+  },
+  "yolo_inference_ms": 36.61703586578369,
+  "effnet_accuracy": 80.5,
+  "effnet_inference_ms": 36.82827949523926,
+  "training_time_mins": 35.2
+}
