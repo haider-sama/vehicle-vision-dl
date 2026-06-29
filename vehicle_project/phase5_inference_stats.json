@@ -1,0 +1,10 @@
+{
+  "avg_latency_ms": 121.59,
+  "min_latency_ms": 14.38,
+  "max_latency_ms": 2051.37,
+  "avg_cpu_pct": 38.16,
+  "avg_ram_pct": 81.95,
+  "throughput_img_s": 37.66,
+  "device": "cuda",
+  "total_images": 20
+}

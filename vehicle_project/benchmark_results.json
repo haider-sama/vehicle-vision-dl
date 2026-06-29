@@ -1,6 +1,6 @@
 {
-  "efficientnet_inference_ms": 36.82827949523926,
-  "yolov8_inference_ms": 36.61703586578369,
-  "efficientnet_gpu_mb": -84.2744140625,
-  "yolov8_gpu_mb": 170.05517578125
+  "efficientnet_inference_ms": 8.46919059753418,
+  "yolov8_inference_ms": 11.02656364440918,
+  "efficientnet_gpu_mb": -83.4423828125,
+  "yolov8_gpu_mb": 160.22021484375
 }
